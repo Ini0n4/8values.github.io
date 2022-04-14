@@ -1,110 +1,110 @@
 ideologies = [
     {
-        "name": "Anarcho-Communism",
+        "name": "Marxism-Leninism",
         "stats": {
             "econ": 100,
             "dipl": 50,
-            "govt": 100,
-            "scty": 90
-        }
-    },
-    {
-        "name": "Libertarian Communism",
-        "stats": {
-            "econ": 100,
-            "dipl": 70,
-            "govt": 80,
-            "scty": 80
-        }
-    },
-    {
-        "name": "Trotskyism",
-        "stats": {
-            "econ": 100,
-            "dipl": 100,
-            "govt": 60,
-            "scty": 80
-        }
-    },
-    {
-        "name": "Marxism",
-        "stats": {
-            "econ": 100,
-            "dipl": 70,
-            "govt": 40,
-            "scty": 80
-        }
-    },
-    {
-        "name": "De Leonism",
-        "stats": {
-            "econ": 100,
-            "dipl": 30,
-            "govt": 30,
-            "scty": 80
-        }
-    },
-    {
-        "name": "Leninism",
-        "stats": {
-            "econ": 100,
-            "dipl": 40,
-            "govt": 20,
-            "scty": 70
-        }
-    },
-    {
-        "name": "Stalinism/Maoism",
-        "stats": {
-            "econ": 100,
-            "dipl": 20,
             "govt": 0,
-            "scty": 60
+            "scty": 75
         }
     },
     {
-        "name": "Religious Communism",
+        "name": "Maoism",
         "stats": {
             "econ": 100,
-            "dipl": 50,
-            "govt": 30,
-            "scty": 30
+            "dipl": 25,
+            "govt": 0,
+            "scty": 100
         }
     },
     {
-        "name": "State Socialism",
+        "name": "Juche",
         "stats": {
-            "econ": 80,
-            "dipl": 30,
-            "govt": 30,
-            "scty": 70
+            "econ": 100,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 25
         }
     },
     {
-        "name": "Theocratic Socialism",
+        "name": "Ho-Chi-Minh taught",
         "stats": {
-            "econ": 80,
-            "dipl": 50,
-            "govt": 30,
-            "scty": 20
+            "econ": 100,
+            "dipl": 25,
+            "govt": 25,
+            "scty": 75
         }
     },
     {
-        "name": "Religious Socialism",
+        "name": "Socialism",
         "stats": {
-            "econ": 80,
-            "dipl": 50,
-            "govt": 70,
-            "scty": 20
+            "econ": 100,
+            "dipl": 75,
+            "govt": 50,
+            "scty": 100
         }
     },
     {
         "name": "Democratic Socialism",
         "stats": {
-            "econ": 80,
-            "dipl": 50,
+            "econ": 75,
+            "dipl": 75,
             "govt": 50,
-            "scty": 80
+            "scty": 100
+        }
+    },
+    {
+        "name": "Libertarian Socialism",
+        "stats": {
+            "econ": 75,
+            "dipl": 75,
+            "govt": 75,
+            "scty": 100
+        }
+    },
+    {
+        "name": "Anarcho-Communism",
+        "stats": {
+            "econ": 100,
+            "dipl": 75,
+            "govt": 100,
+            "scty": 100
+        }
+    },
+    {
+        "name": "Anarcho-Syndacalism",
+        "stats": {
+            "econ": 95,
+            "dipl": 70,
+            "govt": 95,
+            "scty": 95
+        }
+    },
+    {
+        "name": "Anarchism (be gay do crime)",
+        "stats": {
+            "econ": 50,
+            "dipl": 50,
+            "govt": 100,
+            "scty": 100
+        }
+    },
+    {
+        "name": "Anarcho-Capitalism",
+        "stats": {
+            "econ": 0,
+            "dipl": 50,
+            "govt": 100,
+            "scty": 25
+        }
+    },
+    {
+        "name": "Libertarianism",
+        "stats": {
+            "econ": 25,
+            "dipl": 75,
+            "govt": 75,
+            "scty": 25
         }
     },
     {
