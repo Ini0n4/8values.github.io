@@ -9,7 +9,7 @@ questions = [
         }
     },
     {
-        "question": "It is necessary for the government to intervene in the economy to protect consumers.",
+        "question": "It tosuris necessary for the government to intervene in the economy to protect consumers.",
         "effect": {
             "econ": 10,
             "dipl": 0,
